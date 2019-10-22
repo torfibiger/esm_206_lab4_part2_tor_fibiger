@@ -1,1 +1,9 @@
-# esm_206_lab4_part2_tor_fibiger
+The README
+
+- Big
+- Bullets
+- Boi
+
+Big downers dont make ***me*** sad!
+
+*rage* FOREVER
